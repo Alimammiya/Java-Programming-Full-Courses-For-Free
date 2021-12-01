@@ -72,4 +72,4 @@ If you want to be a better developer, Java is a great way to start learning!
 
 It does not omit the course details. You'll learn how to write high-quality code and be an excellent problem solver. This course not only exists to code in the Java programming language, but it also includes all the details on the "why" you are doing. At the end of this course, you will be able to fully understand the concepts of the Java programming language.
 
-Originally posted on - [Errorbynight.com](https://errorbynight.com/why-and-where-you-can-learn-java-programming-full-courses-for-free)
+Original posted on - [Java Programming full Course for Free](https://alimammiya.hashnode.dev/why-and-where-you-can-learn-java-programming-full-courses-for-free)
